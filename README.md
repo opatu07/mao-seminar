@@ -4,9 +4,9 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 https://elmas3.github.io/mao-seminar/
 
 メンバー
-キメラ
-棍棒
-ロトの剣
+うさぎ
+かめ
+さる
 
 # ディレクトリ構成
 ```
